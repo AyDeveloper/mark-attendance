@@ -20,7 +20,7 @@ export default function App() {
   return (
     <div className="max-w-screen-md px-5 mt-10 flex flex-wrap mx-auto gap-8 overflow-hidden break-words">
       <Head>
-        <title>Kaikas + Web3Modal</title>
+        <title>KES Attendance Marker</title>
       </Head>
       <div className="flex flex-row justify-between justify-items-center w-full">
         <h1 className="text-black text-2xl py-1">Mark Attendance | KES </h1>
